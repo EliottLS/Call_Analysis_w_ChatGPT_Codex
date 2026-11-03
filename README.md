@@ -33,7 +33,7 @@ If system Chromium is already installed, use `CHROMIUM_PATH=/usr/bin/chromium np
 
 ## Honest demo boundaries
 
-All people, calls, and commercial metrics are fictional. This independent demonstration is not affiliated with LinkedIn, Stripe, Salesforce, or Gong.
+All people, calls, and commercial metrics are fictional. This independent demonstration is not affiliated with any employer or sales technology provider.
 
 Audio and video uploads play locally. TXT, SRT, and VTT uploads replace the transcript and update a clearly labelled keyword-based coaching estimate. The demo does not transcribe recordings or use a live AI model. Recording-only uploads retain sample coaching. Uploads, notes, and chat last for the browser session and are not sent to a backend.
 
